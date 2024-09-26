@@ -1,0 +1,11 @@
+.middleOne {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.middleTwo {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
